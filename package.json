@@ -1,6 +1,6 @@
 {
-  "name": "portfolio",
-  "homepage": "https://zackbeckwith.github.io/portfolio/",
+  "name": "react-frontend-dev-portfolio",
+  "homepage": ".",
   "version": "0.1.0",
   "private": true,
   "dependencies": {
